@@ -13,7 +13,7 @@ namespace calculadora_dotnet
             bool validate = true;
             Program program = new Program();
 
-            Console.WriteLine("###Sejam bem vindos a calculadora DOTNET###");
+            Console.WriteLine("Sejam bem vindos a calculadora DOTNET");
 
             do
             {
@@ -94,7 +94,6 @@ namespace calculadora_dotnet
             } while (validate);       
 
         }
-
 
 
         public double Sum(double n1, double n2)
