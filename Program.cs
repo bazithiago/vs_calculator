@@ -7,7 +7,7 @@ namespace calculadora_dotnet
         static void Main(string[] args)
         {
             int option;
-            double n1;
+            int n1;
             double n2;
             double result;
             bool validate = true;
